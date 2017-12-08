@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\user\Desktop\홍성준\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\user\Desktop\diffleHellman Algorithm Socket Communication\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+\\RSS\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\bin\Debug\ClientSocket.exe.config
+\\RSS\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\obj\Debug\ClientSocket.exe
+\\RSS\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\obj\Debug\ClientSocket.pdb
+\\129.254.220.201\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\bin\Debug\ClientSocket.exe.config
+\\129.254.220.201\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\obj\Debug\ClientSocket.exe
+\\129.254.220.201\hura\홍성준\diffleHellman Algorithm Socket Communication\ClientSocket(C#)\ClientSocket\obj\Debug\ClientSocket.pdb
